@@ -1,0 +1,21 @@
+{
+  "name": "character-movement",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "vite": "^4.3.9"
+  },
+  "dependencies": {
+    "cannon-es": "^0.15.1",
+    "cannon-es-debugger": "^1.0.0",
+    "gsap": "^3.12.2",
+    "lil-gui": "^0.18.1",
+    "three": "^0.153.0",
+    "three-to-cannon": "^5.0.1"
+  }
+}
