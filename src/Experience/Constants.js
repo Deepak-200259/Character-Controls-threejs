@@ -3,12 +3,12 @@ export let sources = [
 		name: "environmentMapTexture",
 		type: "cubeTexture",
 		path: [
-			"textures/environmentMap/px.jpg",
-			"textures/environmentMap/nx.jpg",
-			"textures/environmentMap/py.jpg",
-			"textures/environmentMap/ny.jpg",
-			"textures/environmentMap/pz.jpg",
-			"textures/environmentMap/nz.jpg",
+			"textures/environmentMap/px.png",
+			"textures/environmentMap/nx.png",
+			"textures/environmentMap/py.png",
+			"textures/environmentMap/ny.png",
+			"textures/environmentMap/pz.png",
+			"textures/environmentMap/nz.png",
 		],
 	},
 	{
